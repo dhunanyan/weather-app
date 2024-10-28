@@ -17,4 +17,4 @@ This app is designed with React Native, making it compatible with both iOS and A
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/your-username/react-native-weather-app.git
+   git clone https://github.com/dhunanyan/weather-app.git
